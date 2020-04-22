@@ -44,7 +44,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 <h2 id="schedule">Schedule</h2>
 {% include timetable.html %}
-{: .prereq}
+<!--{: .prereq}-->
 
 <h2 id="syllabus">Syllabus</h2>
 
