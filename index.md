@@ -17,6 +17,11 @@ root: .
 <h3>If you would like to be notified of later workshops, please complete this form: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu" target="_blank">Interested in programming classes</a>.</h3>
 <br>
 
+<h2>Getting A HPC account with Griffith</h2>
+<p>
+  You may use this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYhZRHEbGuutOhsLljzWVJ1JUQlRTM0lTV0o0TFozWjlVMTQ5TVU0WjhBSC4u" target="_blank">link</a> to lodge a support request (e.g request a new account, issues with applications, installation requests etc)  for the new Griffith HPC. You will need to log into Microsoft forms with your Griffith email address to access this form.
+</p>
+
 <h2 id="general">General Information</h2>
 
 <p id="where">
