@@ -31,8 +31,7 @@ root: .
 
 
 <p id="contact">
-  <strong>Contact</strong>:
-  Please email <a href='mailto:{{email}}'>{{email}}</a> for more information.
+  <strong>Contact:</strong> Please email <a href='mailto:{{email}}'>{{email}}</a> for more information.
 </p>
 
 <hr/>
@@ -76,6 +75,11 @@ Everyone who participates in Carpentries activities is required to conform to th
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+</p>
+
+<p>
+  <strong>Connecting to the HPC from outside of Griffith University</strong>
+  If you are using the Griffith Wireless network you must be logged in with Griffith's VPN to use the HPC. More information about downloading and using <a href="https://intranet.secure.griffith.edu.au/computing/remote-access/virtual-private-network" target="_blank">Griffith's VPN</a>
 </p>
 
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
