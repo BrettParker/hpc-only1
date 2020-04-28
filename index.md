@@ -385,27 +385,21 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 
 
-<div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
-  <h3>R</h3>
 
-  <p>
-    <a href="https://www.r-project.org">R</a> is a programming language
-    that is especially powerful for data exploration, visualization, and
-    statistical analysis. To interact with R, we use
-    <a href="https://www.rstudio.com/">RStudio</a>.
-  </p>
+<h3>R</h3>
 
-  <div>
-    <ul class="nav nav-tabs nav-justified" role="tablist">
-      <li role="presentation" class="active"><a data-os="windows" href="#rstats-windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
-      <li role="presentation"><a data-os="macos" href="#rstats-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
-      <li role="presentation"><a data-os="linux" href="#rstats-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
-    </ul>
+<p>
+  <a href="https://www.r-project.org">R</a> is a programming language
+  that is especially powerful for data exploration, visualization, and
+  statistical analysis. To interact with R, we use
+  <a href="https://www.rstudio.com/">RStudio</a>.
+</p>
 
-    <div class="tab-content">
-      <article role="tabpanel" class="tab-pane active" id="rstats-windows">
-        <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
-        <p>
+<div class="row">
+    <div class="col-md-4">
+      <h4 id="R-windows">Windows</h4>
+      <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
+      <p>
           Install R by downloading and running
           <a href="https://cran.r-project.org/bin/windows/base/release.htm">this .exe file</a>
           from <a href="https://cran.r-project.org/index.html">CRAN</a>.
@@ -414,29 +408,29 @@ Everyone who participates in Carpentries activities is required to conform to th
           Note that if you have separate user and admin accounts, you should run the
           installers as administrator (right-click on .exe file and select "Run as
           administrator" instead of double-clicking). Otherwise problems may occur later,
-          for example when installing R packages.
-        </p>
-      </article>
-      <article role="tabpanel" class="tab-pane active" id="rstats-macos">
-        <a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">Video Tutorial</a>
-        <p>
+          for example when installing R packages. 
+      </p>
+    </div>
+    <div class="col-md-4">
+      <h4 id="R-macosx">macOS</h4>
+      <a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">Video Tutorial</a>
+      <p>
           Install R by downloading and running
           <a href="https://cran.r-project.org/bin/macosx/R-latest.pkg">this .pkg file</a>
           from <a href="https://cran.r-project.org/index.html">CRAN</a>.
           Also, please install the
           <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio IDE</a>.
-        </p>
-      </article>
-      <article role="tabpanel" class="tab-pane active" id="rstats-linux">
-        <p>
-          You can download the binary files for your distribution
+      </p>
+    </div>
+    <div class="col-md-4">
+      <h4 id="R-linux">Linux</h4>
+      <p>
+        You can download the binary files for your distribution
           from <a href="https://cran.r-project.org/index.html">CRAN</a>. Or
           you can use your package manager (e.g. for Debian/Ubuntu
           run <code>sudo apt-get install r-base</code> and for Fedora run
           <code>sudo dnf install R</code>).  Also, please install the
           <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio IDE</a>.
-        </p>
-      </article>
+      </p>
     </div>
-  </div>
-</div> {% comment %} End of 'R' section. {% endcomment %}
+</div>
