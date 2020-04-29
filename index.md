@@ -31,7 +31,7 @@ root: .
 
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#materialData&Software">Material, Software & Data</a>).
 </p>
 
 
@@ -52,7 +52,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 {% include timetable.html %}
 <!--{: .prereq}-->
 
-<h2 id="syllabus">Syllabus</h2>
+<h2 id="syllabus">Background and Further Reading</h2>
 {% include syllabusHPC.html %}
 
 <p>
